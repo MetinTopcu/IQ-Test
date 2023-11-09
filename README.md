@@ -17,3 +17,4 @@ Run npm to build the project.
 React Hooks, React Router, React Query, Axios, Material UI, Formik, Yup, Context API,
 
 # Images of App
+![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/9d31d3e0-4d0f-431c-99bc-369405095aec)
