@@ -7,13 +7,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-#Development Server
+# Development Server
 Navigate to http://localhost:5173/
 
-#Build
+# Build
 Run npm to build the project.
 
-#Contents
+# Contents
 React Hooks, React Router, React Query, Axios, Material UI, Formik, Yup, Context API,
 
-#Images of App
+# Images of App
