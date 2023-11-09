@@ -17,10 +17,14 @@ Run npm to build the project.
 React Hooks, React Router, React Query, Axios, Material UI, Formik, Yup, Context API,
 
 # Images of App
+Home
 ![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/9d31d3e0-4d0f-431c-99bc-369405095aec)
 ![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/082ba6fb-b4e5-4600-88d0-7712d83bf398)
+Blog
 ![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/7d7e6237-906f-4205-9545-5ee716fb5b4d)
+About Us
 ![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/6c23d003-6f5c-4f65-8291-aaeb5aca146d)
+IQ Test
 ![image](https://github.com/MetinTopcu/IQTestWeb-Frontend-/assets/70098939/200a61a1-d3bb-481c-aee9-046272aec11f)
 
 
